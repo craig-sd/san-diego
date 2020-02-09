@@ -20,7 +20,7 @@ Free entry and free parking
 
 ## [Meditation Garden](https://www.yelp.com/biz/self-realization-fellowship-hermitage-and-meditation-gardens-encinitas-2)
 
-![ocean view](https://lh3.googleusercontent.com/proxy/mN64OTpDqm6sZ9yshndJIMDh2e7ndvX6gijIdeKuHjHJahUEnGPYmpmyOobxf9YnMZr_bcFPPCdlM_o4SGTnYXUkYqLMP0BkGqGJn2jXeoCZoBWQ1Le7I8sIm4e8IPhE89sKISKIf9734QNvvbiJTbQDCw)
+![ocean view](https://lh3.googleusercontent.com/proxy/HU5vWOfZFir1k0eFU91reKoqsmTcprMoRRae2KnjfNLtTHismFBkS19deT5aQlBmTuFPgqdcCh_ZA4DAE7F7aal1EsjBoVjb52AM2GstCeupYkUJFpGLV9VpJ_LQw1udWMRbL9GeOLOz274KauG55amoSg)
 
 Small, beautiful, peaceful garden with ocean views. This is a nice stop when visiting something else in Encinitas.
 
