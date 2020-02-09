@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hikes
+title: Outdoors
 parent: San Diego
 has_children: true
 ---
