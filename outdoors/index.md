@@ -46,14 +46,6 @@ Lifeguard, Restrooms, Showers, Kids Play Area, Fire Pits, Picnic Tables, Tennis 
 ### Cost
 Free entry and free parking
 
-## [Tidepooling Adventure by Birch Aquarium](https://aquarium.ucsd.edu/experiences/programs/tidepooling)
-
-Docent lead tidepooling from December to March. Advanced tickets required.
-
-### Cost
-
-$18 per person
-
 ## [Shark Snorkel with Birch Aquarium](https://aquarium.ucsd.edu/experiences/programs/shark-snorkeling)
 
 Docent lead snorkeling with leopard sharks from July to September. Advanced tickets required.
@@ -61,3 +53,21 @@ Docent lead snorkeling with leopard sharks from July to September. Advanced tick
 ### Cost
 
 $25 per person
+
+## Sunshine Gardens
+
+![Sunshine Gardens](https://s3-media0.fl.yelpcdn.com/bphoto/2OT_TQmBeYDddwVDcE-BFg/o.jpg)
+
+A fun place to stop with the kids that has goats, birds, a big, a tortoise, and koi tanks. It's just a nursery that also has animals to see but makes for a fun stop when you are in Encinitas. The koi fish are a different business on the same location. You can spend up to 30 min here.
+
+### Cost
+
+Free entry and parking
+
+## [Tidepooling Adventure by Birch Aquarium](https://aquarium.ucsd.edu/experiences/programs/tidepooling)
+
+Docent lead tidepooling from December to March. Advanced tickets required.
+
+### Cost
+
+$18 per person
