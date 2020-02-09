@@ -15,7 +15,7 @@ Interesting short hike that is perfect for kids.
 
 [126 Solana Point Cir, Solana Beach, CA 92075](https://goo.gl/maps/RmfhiRUVZHDbkKKm8)
 
-## Cost
+### Cost
 Free entry and free parking
 
 ## [Meditation Garden](https://www.yelp.com/biz/self-realization-fellowship-hermitage-and-meditation-gardens-encinitas-2)
