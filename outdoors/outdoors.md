@@ -9,8 +9,11 @@ has_children: true
 
 ## [Annie's Canyon](http://hikingsdcounty.com/annies-canyon-trail-san-elijo-lagoon/)
 
-![canyon](https://ca-times.brightspotcdn.com/dims4/default/7405b5b/2147483647/strip/true/crop/1365x2048+0+0/resize/840x1260!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2F56%2F75a8b4d0a9e8d9e6238021e946f0%2Fsd-hiking-annies-canyon-trail-20171122-004)
+<img src="https://ca-times.brightspotcdn.com/dims4/default/7405b5b/2147483647/strip/true/crop/1365x2048+0+0/resize/840x1260!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2F56%2F75a8b4d0a9e8d9e6238021e946f0%2Fsd-hiking-annies-canyon-trail-20171122-004" alt="canyon" height="630" width="480">
+
 Interesting short hike that is perfect for kids.
+
+[126 Solana Point Cir, Solana Beach, CA 92075](https://goo.gl/maps/RmfhiRUVZHDbkKKm8)
 
 ## Cost
 Free entry and free parking
@@ -31,6 +34,8 @@ Free entry and free street parking
 ![Moonlight beach](https://www.sandiego.org/-/media/images/sdta-site/things-to-do/beaches-bays/1800x788-covers/encinitasmoonlightbeach-1800x788.jpg)
 
 Family friendly beach with a play area, rentals, food, and lifeguards. The beach has a gradual slope so there is a large shallow area for kids.
+
+[400 B St, Encinitas, CA 92024](https://goo.gl/maps/eTwv9LNhobF8bvsd9)
 
 ### Activities
 Surfing, Sunbathing, Tennis, Volleyball, Bonfires, Beach Walking, Swimming
