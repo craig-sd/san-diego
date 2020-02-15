@@ -20,7 +20,7 @@ Free entry and free parking
 
 ## [Balboa Park](https://www.belmontpark.com/)
 
-<img src="https://www.balboapark.org/sites/default/files/2017-02/bp_central_mapHeader.jpg" alt="canyon" height="480" width="630">
+[Balboa park map](https://www.balboapark.org/sites/default/files/2017-02/bp_central_mapHeader.jpg)
 
 Large park with many areas to explore. The San Diego zoo, Air and Space Museum, Natural History Museum and other museums are inside this park.
 
