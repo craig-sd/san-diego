@@ -18,6 +18,18 @@ Interesting short hike that is perfect for kids.
 ### Cost
 Free entry and free parking
 
+## [Belmont Park](https://www.belmontpark.com/)
+
+![Belmont Park](https://www.californiabeaches.com/wp-content/uploads/2016/04/belmont-park-san-diego-belmont-park_54_990x660_201406011604-650x433.jpg)
+
+Similar vibe to Santa Cruz Beach Boardwalk. Fun for the kids but money spends quick. They have rides and rollercoasters that you can buy tickets to one-by-one, or you can get a day pass. There are other activties like a rock wall, miniature golf, an escape room, etc.
+
+The full list of rides and activities is [here](https://www.belmontpark.com/ride-play/)
+
+### Cost
+
+Parking and entry if free. You can buy rides individually or you can get an unlimited pass for the carnival rides is $31 and $21 (less than 48").
+
 ## [Meditation Garden](https://www.yelp.com/biz/self-realization-fellowship-hermitage-and-meditation-gardens-encinitas-2)
 
 ![ocean view](https://lh3.googleusercontent.com/proxy/HU5vWOfZFir1k0eFU91reKoqsmTcprMoRRae2KnjfNLtTHismFBkS19deT5aQlBmTuFPgqdcCh_ZA4DAE7F7aal1EsjBoVjb52AM2GstCeupYkUJFpGLV9VpJ_LQw1udWMRbL9GeOLOz274KauG55amoSg)
