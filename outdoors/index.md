@@ -110,3 +110,13 @@ Docent lead tidepooling from December to March. Advanced tickets required.
 ### Cost
 
 $18 per person
+
+## [Torrey Pines State Reserve](https://www.sandiego.org/articles/parks-gardens/torrey-pines-state-natural-reserve-park.aspx)
+
+![Torrey Pines](https://www.oceanlight.com/stock-photo/broken-hill-sunrise-clearing-storm-clouds-torrey-pines-photo-29416-345.jpg)
+
+Nice place to take a short hike. Beautiful views of the ocean and errosion making interesting designs in the sandstone.
+
+### Cost
+
+They charge for parking but I have a free parking pass for one car if you want to borrow it and go. It's near our house.
