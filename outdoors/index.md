@@ -18,6 +18,16 @@ Interesting short hike that is perfect for kids.
 ### Cost
 Free entry and free parking
 
+## Balboa Park
+
+<img src="https://www.balboapark.org/sites/default/files/2017-02/bp_central_mapHeader.jpg" alt="canyon" height="480" width="630">
+
+Large park with many areas to explore. The San Diego zoo, Air and Space Museum, Natural History Museum and other museums are inside this park.
+
+### Cost
+
+Parking and entry are free.
+
 ## [Belmont Park](https://www.belmontpark.com/)
 
 ![Belmont Park](https://www.californiabeaches.com/wp-content/uploads/2016/04/belmont-park-san-diego-belmont-park_54_990x660_201406011604-650x433.jpg)
@@ -57,6 +67,18 @@ Lifeguard, Restrooms, Showers, Kids Play Area, Fire Pits, Picnic Tables, Tennis 
 
 ### Cost
 Free entry and free parking
+
+## Old Town
+
+<img src="https://eventective-media.azureedge.net/2122076_lg.jpg" alt="Casa de Reyes" height="480" width="630">
+
+https://eventective-media.azureedge.net/2122076_lg.jpg
+
+Mexico cleaned up. This area is fun to walk around with entertainment, shops, and good food. There is also a [Historic Park](https://www.oldtownmarketsandiego.com/san-diego-blog/old-town-san-diego-state-historic-park) replicating the San Diego of 1820 - 1870.
+
+### Cost
+
+Free
 
 ## [Shark Snorkel with Birch Aquarium](https://aquarium.ucsd.edu/experiences/programs/shark-snorkeling)
 
