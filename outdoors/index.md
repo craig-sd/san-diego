@@ -18,7 +18,7 @@ Interesting short hike that is perfect for kids.
 ### Cost
 Free entry and free parking
 
-## Balboa Park
+## [Balboa Park](https://www.belmontpark.com/)
 
 <img src="https://www.balboapark.org/sites/default/files/2017-02/bp_central_mapHeader.jpg" alt="canyon" height="480" width="630">
 
