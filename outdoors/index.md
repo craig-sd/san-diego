@@ -32,7 +32,7 @@ Parking and entry if free. You can buy rides individually or you can get an unli
 
 ## [Meditation Garden](https://www.yelp.com/biz/self-realization-fellowship-hermitage-and-meditation-gardens-encinitas-2)
 
-![ocean view](https://lh3.googleusercontent.com/proxy/HU5vWOfZFir1k0eFU91reKoqsmTcprMoRRae2KnjfNLtTHismFBkS19deT5aQlBmTuFPgqdcCh_ZA4DAE7F7aal1EsjBoVjb52AM2GstCeupYkUJFpGLV9VpJ_LQw1udWMRbL9GeOLOz274KauG55amoSg)
+![Meditation Garden](https://images.squarespace-cdn.com/content/v1/5a54684cf9a61e90a8554a3f/1515565570187-L18I8YRAXHKGKS587ZCF/ke17ZwdGBToddI8pDm48kAYywbqICfGJFKRXkl8-Ibd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYdaRSvaPBCxxYQITgziP8u5IO3n8mOY1D279mu8g4lriw/IMG_9917.JPG)
 
 Small, beautiful, peaceful garden with ocean views. This is a nice stop when visiting something else in Encinitas.
 
