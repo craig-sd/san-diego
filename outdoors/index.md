@@ -40,6 +40,13 @@ The full list of rides and activities is [here](https://www.belmontpark.com/ride
 
 Parking and entry if free. You can buy rides individually or you can get an unlimited pass for the carnival rides is $31 and $21 (less than 48").
 
+## Little Italy Neighborhood
+
+![Little Italy](https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/1/plaza-villaggio-little-italy-san-diego-david-zanzinger.jpg?&targetx=-25&targety=0&imagewidth=751&imageheight=500&modelwidth=700&modelheight=500&backgroundcolor=44492F&orientation=0)
+
+Nice neighboorhood to walk around in downtown San Diego. They have a nice farmer's market on Saturdays 8AM-2PM
+Located on W. Date St. from Front St to west of Kettner Blvd.
+
 ## [Meditation Garden](https://www.yelp.com/biz/self-realization-fellowship-hermitage-and-meditation-gardens-encinitas-2)
 
 <img src="https://images.squarespace-cdn.com/content/v1/5a54684cf9a61e90a8554a3f/1515565570187-L18I8YRAXHKGKS587ZCF/ke17ZwdGBToddI8pDm48kAYywbqICfGJFKRXkl8-Ibd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYdaRSvaPBCxxYQITgziP8u5IO3n8mOY1D279mu8g4lriw/IMG_9917.JPG" alt="Meditation Garden" height="630" width="480">
