@@ -75,7 +75,7 @@ Lifeguard, Restrooms, Showers, Kids Play Area, Fire Pits, Picnic Tables, Tennis 
 ### Cost
 Free entry and free parking
 
-## Old Town
+## [Old Town](https://www.sandiego.org/articles/old-town/old-town-san-diego.aspx)
 
 <img src="https://eventective-media.azureedge.net/2122076_lg.jpg" alt="Casa de Reyes" height="480" width="630">
 
