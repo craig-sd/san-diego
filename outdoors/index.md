@@ -40,6 +40,20 @@ The full list of rides and activities is [here](https://www.belmontpark.com/ride
 
 Parking and entry if free. You can buy rides individually or you can get an unlimited pass for the carnival rides is $31 and $21 (less than 48").
 
+## Cabrillo National Monument's Tidepools.
+
+![Crab in tidepool](https://timesofsandiego.com/wp-content/uploads/2016/04/Crab-Cabrillo-National-Monument.jpg)
+
+These are supposed to be good tide pools. Tidepooling is best in fall and winder when low tide happens during the day. It's best to go on a day that has negative tides, -1 or more.
+
+![Tide Chart](https://www.nps.gov/cabr/learn/nature/images/2020-Feb-Tides.png)
+
+[1800 Cabrillo Memorial Dr, San Diego, CA 92106](https://goo.gl/maps/2YhX8oPokRVBTtoZ7)
+
+### Cost
+
+They charge for parking so **bring cash**. Not sure how much.
+
 ## Little Italy Neighborhood
 
 ![Little Italy](https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/1/plaza-villaggio-little-italy-san-diego-david-zanzinger.jpg?&targetx=-25&targety=0&imagewidth=751&imageheight=500&modelwidth=700&modelheight=500&backgroundcolor=44492F&orientation=0)
