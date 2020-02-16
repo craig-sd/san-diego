@@ -93,11 +93,13 @@ Docent lead snorkeling with leopard sharks from July to September. Advanced tick
 
 $25 per person
 
-## Sunshine Gardens
+## [Sunshine Gardens](https://www.yelp.com/biz/sunshine-gardens-encinitas)
 
 ![Sunshine Gardens](https://s3-media0.fl.yelpcdn.com/bphoto/2OT_TQmBeYDddwVDcE-BFg/o.jpg)
 
 A fun place to stop with the kids that has goats, birds, a big, a tortoise, and koi tanks. It's just a nursery that also has animals to see but makes for a fun stop when you are in Encinitas. The koi fish are a different business on the same location. You can spend up to 30 min here.
+
+[155 Quail Gardens Dr, Encinitas, CA 92024](https://goo.gl/maps/Pe85gCtxpoKvXu9K9)
 
 ### Cost
 
