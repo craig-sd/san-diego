@@ -1,0 +1,48 @@
+site_name: San Diego Guide
+repo_url: https://github.com/craig-sd/san-diego
+docs_dir: src
+site_dir: docs
+
+nav:
+- Outdoors: outdoors/index.md
+- Animals and Science: animals/index.md
+- Military: military/index.md
+
+
+theme:
+  name: material
+  icon:
+    logo: material/book-open-page-variant
+
+plugins:
+  - search
+
+extra_css: [extra.css]
+
+#https://squidfunk.github.io/mkdocs-material/extensions/pymdown/
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - codehilite:
+      linenums: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.tilde
