@@ -1,6 +1,7 @@
 ## [Belmont Park](https://www.belmontpark.com/)
 
 ![Belmont Park](https://www.californiabeaches.com/wp-content/uploads/2016/04/belmont-park-san-diego-belmont-park_54_990x660_201406011604-650x433.jpg)
+![Belmont Park from above](../images/IMG_1111.JPG)
 
 Similar vibe to Santa Cruz Beach Boardwalk. Fun for the kids but money spends quick. They have rides and rollercoasters that you can buy tickets to one-by-one, or you can get a day pass. There are other activties like a rock wall, miniature golf, an escape room, etc.
 
