@@ -5,11 +5,15 @@ site_dir: docs
 site_url: https://craig-sd.github.io/san-diego/
 
 nav:
-- Outdoors: outdoors/index.md
-- Animals and Science: animals/index.md
-- Military: military/index.md
-
-
+- Amusement Parks: amusement_parks/amusement_parks.md
+- Museums, Aquariums, Zoos:
+    Aquariums: museums_aquariums_zoos/aquariums.md
+    Museums: museums_aquariums_zoos/museums.md
+    Zoos: museums_aquariums_zoos/zoos.md
+- Outdoors:
+    Neighborhoods: outdoors/neighborhoods.md
+    Ocean: outdoors/ocean.md
+    Walks and Hikes: outdoors/walks_and_hikes.md
 theme:
   name: material
   icon:

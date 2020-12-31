@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>https://craig-sd.github.io/san-diego/outdoors/</loc>
+     <loc>https://craig-sd.github.io/san-diego/amusement_parks/amusement_parks/</loc>
      <lastmod>2020-12-31</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://craig-sd.github.io/san-diego/animals/</loc>
+     <loc>https://craig-sd.github.io/san-diego/museums_aquariums_zoos/aquariums/</loc>
      <lastmod>2020-12-31</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://craig-sd.github.io/san-diego/military/</loc>
+     <loc>https://craig-sd.github.io/san-diego/museums_aquariums_zoos/museums/</loc>
+     <lastmod>2020-12-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://craig-sd.github.io/san-diego/museums_aquariums_zoos/zoos/</loc>
+     <lastmod>2020-12-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://craig-sd.github.io/san-diego/outdoors/neighborhoods/</loc>
+     <lastmod>2020-12-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://craig-sd.github.io/san-diego/outdoors/ocean/</loc>
+     <lastmod>2020-12-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://craig-sd.github.io/san-diego/outdoors/walks_and_hikes/</loc>
      <lastmod>2020-12-31</lastmod>
      <changefreq>daily</changefreq>
     </url>

@@ -1,12 +1,3 @@
----
-layout: default
-title: Military Exhibits
-parent: San Diego
-has_children: true
----
-
-# Military Exhibits
-
 ## [Air and Space Museum](http://sandiegoairandspace.org/)
 
 ![Air and Space Museum](https://hisdroutes.weebly.com/uploads/4/8/9/0/48906957/851297.jpg?810)
@@ -16,6 +7,16 @@ Aviation and space museum is a great way to spend a few hours. This museum is in
 ### Cost
 
 $22 adults and $12 kids (3-11) [Closed for Covid](https://sandiegoairandspace.org//visit/visit-the-museum)
+
+## [Natural History Museum](https://www.sdnhm.org/calendar/?gclid=CjwKCAiA-P7xBRAvEiwAow-VaZFA8y-eCSBsRmRPbb7sasa3CEkTwe8No4ETFYUcDRcEsZGKGwcdCxoCTroQAvD_BwE)
+
+![Natural History Museum](https://sandiegomuseumcouncil.org/wp-content/uploads/2018/04/4899-1080x600.jpg)
+
+Wonderful museum with live animals, kid friendly exhibits, fossils, and cool stuff from their 8 million research specimens. This museum is in Balboa park so you can spend half a day here and the rest of the day doing something else in Balboa park.
+
+### Cost
+
+Museum month prices: $20 adults and $12 kids (3-17) [Closed for Covid](https://www.sdnhm.org/visit/)
 
 ## [USS Midway Museum (Aircraft Carrier)](https://www.midway.org/)
 
