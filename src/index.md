@@ -8,6 +8,13 @@ Torrey Pines State Beach - [Location](https://goo.gl/maps/mE3JvdQjETrjg5uC9)
 ![Torrey Pines State Beach](images/IMG_1253.JPG)
 ![Torrey Pines State Beach](images/IMG_1188.JPG)
 
+<figure>
+  <a href="https://www.reddit.com/r/sandiego/comments/h83lyh/same_great_views_none_of_the_people_del_mar/">
+  <img src="https://i.redd.it/as5kmeki1n451.jpg" width="600" />
+  </a>
+  <figcaption>View from tracks in Del Mar</figcaption>
+</figure>
+
 View from Mount Laguna
 ![View from Mount Laguna](images/IMG_1196.JPG)
 
