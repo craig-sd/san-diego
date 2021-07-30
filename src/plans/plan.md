@@ -31,7 +31,7 @@ I can make eggs and french toast.
 ### Afternoon
 In my opinion the beaches up north where we live are nicer and less tourists than down south. This may be a good day to chill at [Moonlight beach](../outdoors/ocean/#moonlight-state-beach) until your check-in time.
 
-If you want to do a hike I recommend the Torrey Pines Extension since it is nice and well known to tourists.
+If you want to do a hike I recommend the Torrey Pines Extension since it is nice and not full of tourists.
 
 If you want to do a walk I'd recommend parking on 5th street in Del Mar, carefully cross the train tracks, and walk along the tracks south until you get to the path of purple flowers.
 
