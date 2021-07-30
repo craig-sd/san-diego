@@ -1,5 +1,15 @@
 ## Sunday
 
+### Morning
+
+1. Fly in
+2. Get bags
+3. Get cars
+4. Call me so I can get a table at Broken Yolk
+5. Drive to [Broken Yolk](https://www.thebrokenyolkcafe.com/menu/main-menu/) in Del Mar, 2642 Del Mar Heights Rd, Del Mar, CA 92014.
+
+ I recommend their Sope Benedict: Two extra thick and crispy corn tortillas filled with shredded beef and topped with poached eggs, homemade ranchero sauce, sliced avocado, fresh salsa, cotija cheese and sour cream.
+
 ### Afternoon
 I was thinking we could hang out at the house in the afternoon and have lunch at either the Sky Deck or One Paseo. Both are nice places to walk around and have various eating options.
 
@@ -16,7 +26,7 @@ Make smores.
 ## Monday
 
 ### Breakfast
-I can make eggs and french toast. Alternatively we can go to [Broken Yolk](https://www.thebrokenyolkcafe.com/menu/main-menu/) but we need to decide this in advance and reserve a table. At broken yolk I recommend their Sope Benedict: Two extra thick and crispy corn tortillas filled with shredded beef and topped with poached eggs, homemade ranchero sauce, sliced avocado, fresh salsa, cotija cheese and sour cream.
+I can make eggs and french toast.
 
 ### Afternoon
 In my opinion the beaches up north where we live are nicer and less tourists than down south. This may be a good day to chill at [Moonlight beach](../outdoors/ocean/#moonlight-state-beach) until your check-in time.
