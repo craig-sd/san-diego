@@ -46,5 +46,14 @@ If you want to do a walk I'd recommend parking on 5th street in Del Mar, careful
 
 * One Paseo - Fancy outdoor shopping center next to our house. Nice place to stroll, chill, talk. [https://www.instagram.com/onepaseo/](https://www.instagram.com/onepaseo/)
 * Sky Deck at Del Mar Highlands - In the shopping center next to our house (across the street from One Paseo) there is another outdoor mall, Del Mar Heighlands. There is a new eatery there called the Sky Deck that has a few restaurants open. Do to the Sky Deck on the top floor and look out over the nice view and order a hard kombucha flight from Booch Craft. If you are hungry order Greek food or a pizza.
+<div class="row">
+<img src="../../images/skydeck_front.jpeg" width="200" />
+<img src="../../images/skydeck_inside.jpeg" width="200" />
+<img src="../../images/skydeck_pizza.jpeg" width="200" />
+</div>
+<div class="row">
+<img src="../../images/skydeck_inside_2.jpeg" width="200" />
+</div>
 * Modern Times Beer Tasting Room - OK, I don't get out much and I don't like IPA so take this recommendation with a grain of salt. I like the vibe of this place. If you are at my house you can go to the one in Encinitas. If you are at the other house you can go in North Park.
-* Karl Strauss Restaurant in Sorrento Mesa - Yes, another beer place... see above. This place is a nice place to talk and have a beer. Beer, beer food, and japanese garden. Check the [pics](https://www.google.com/search?q=Karl+Strauss+Sorrento+Mesa+Restaurant&rlz=1C5CHFA_enUS915US915&sxsrf=ALeKk01pkbFTAD-JyFj0GYCJ8DZBrmjrRg:1627688160177&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiYi970-ovyAhWS6p4KHcMZBEEQ_AUoAnoECAEQBA&biw=1755&bih=1088).
+<img src="../../images/modern_times.jpeg" width="600" /> 
+* Karl Strauss Restaurant in Sorrento Mesa - Yes, another beer place... see above. This place is a nice place to talk and have a beer. Beer, beer food, and japanese garden. <img src="../../images/karl_strauss.jpeg" width="600" /> [More](https://www.google.com/search?q=Karl+Strauss+Sorrento+Mesa+Restaurant&rlz=1C5CHFA_enUS915US915&sxsrf=ALeKk01pkbFTAD-JyFj0GYCJ8DZBrmjrRg:1627688160177&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiYi970-ovyAhWS6p4KHcMZBEEQ_AUoAnoECAEQBA&biw=1755&bih=1088)
