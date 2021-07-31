@@ -35,6 +35,9 @@ If you want to do a hike I recommend the Torrey Pines Extension since it is nice
 
 If you want to do a walk I'd recommend parking on 5th street in Del Mar, carefully cross the train tracks, and walk along the tracks south until you get to the path of purple flowers.
 
+!!!+ warn Stay away from the tracks
+    The train moves quick and is very dangerous. Don't spend any time near the tracks. Always walk as far from the tracks as you can safely walk on the bluff (drop off). Also, be careful of the bluffs because they [crumble](https://www.google.com/search?q=del+mar+bluff+collapse&rlz=1C5CHFA_enUS915US915&sxsrf=ALeKk01Ktn7bhhBHZe-q3EzN0mS5kv6eQw:1627696245555&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiQwpKEmYzyAhWYtJ4KHa_oDdIQ_AUoAnoECAEQBA&biw=2337&bih=1088) fairly often. 
+
 <figure>
   <a href="https://www.reddit.com/r/sandiego/comments/h83lyh/same_great_views_none_of_the_people_del_mar/">
   <img src="https://i.redd.it/as5kmeki1n451.jpg" width="400" />
