@@ -62,7 +62,7 @@ If you want to do a walk I'd recommend parking on 5th street in Del Mar, careful
 
 ## Restaurants
 
-* Convoy street - Cluster of asian restaurants and other businesses. It's fun to go there, pick out a place, and enjoy. Some good options described [here](https://www.sandiego.org/campaigns/creative-communities/convoy-district.aspx). If you go here we recommend you have desert at Somisomi *(Nutella inside)*.
+* Convoy street - Cluster of asian restaurants and other businesses. It's fun to go there, pick out a place, and enjoy. Some good options described [here](https://www.sandiego.org/campaigns/creative-communities/convoy-district.aspx). If you go here we recommend you have desert at Somisomi *(Nutella inside)* or MNGO cafe [#mngocafe](https://www.instagram.com/mngocafe/?hl=en).
 <img src="../../images/somisomi.jpeg" width="600" />
 
 ## Breakfast Restaurants
