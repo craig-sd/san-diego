@@ -6,7 +6,7 @@ Aviation and space museum is a great way to spend a few hours. This museum is in
 
 ### Cost
 
-$22 adults and $12 kids (3-11) [Closed for Covid](https://sandiegoairandspace.org//visit/visit-the-museum)
+$22 adults and $12 kids (3-11) (https://sandiegoairandspace.org//visit/visit-the-museum)
 
 ## [Natural History Museum](https://www.sdnhm.org/calendar/?gclid=CjwKCAiA-P7xBRAvEiwAow-VaZFA8y-eCSBsRmRPbb7sasa3CEkTwe8No4ETFYUcDRcEsZGKGwcdCxoCTroQAvD_BwE)
 
@@ -16,7 +16,7 @@ Wonderful museum with live animals, kid friendly exhibits, fossils, and cool stu
 
 ### Cost
 
-Museum month prices: $20 adults and $12 kids (3-17) [Closed for Covid](https://www.sdnhm.org/visit/)
+Museum month prices: $20 adults and $12 kids (3-17) (https://www.sdnhm.org/visit/)
 
 ## [USS Midway Museum (Aircraft Carrier)](https://www.midway.org/)
 
@@ -26,4 +26,4 @@ Tour an aircraft carrier and the many restored military jets, planes, and helico
 
 ## Cost
 
-Museum month prices: $26 adults, $18 student (13-17) [Closed for Covid](https://www.midway.org/visit/buy-tickets/)
+Museum month prices: $26 adults, $18 student (13-17) (https://www.midway.org/visit/buy-tickets/)

@@ -6,4 +6,4 @@ Small but nice aquarium associated with UCSD Oceanography. The seadragon exhibit
 
 ### Cost
 
-Adults $16.50 Kids $12.00 [Closed for Covid](https://aquarium.ucsd.edu/visit/buy-tickets)
+Adults $19.50  Kids $15.00 (https://aquarium.ucsd.edu/visit/buy-tickets)

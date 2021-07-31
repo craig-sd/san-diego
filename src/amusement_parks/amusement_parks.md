@@ -9,7 +9,7 @@ The full list of rides and activities is [here](https://www.belmontpark.com/ride
 
 ### Cost
 
-Parking and entry is free. You can buy rides individually or you can get an unlimited pass for the carnival rides is $31 and $21 (less than 48").
+Parking and entry is free. You can buy rides individually or you can get an unlimited pass for the carnival rides is ~$31~ $56 and ~$21~ $46 (less than 48").
 
 ## [Sea World](https://seaworld.com/)
 
@@ -36,4 +36,4 @@ The park features sea animal shows and also has roller coasters. In my opinion t
 
 ### Cost
 
-$47 per person, $25 parking [Closed for Covid](https://seaworld.com/)
+$59 per person, $25 parking
