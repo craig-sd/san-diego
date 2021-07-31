@@ -37,7 +37,7 @@ If you want to do a walk I'd recommend parking on 5th street in Del Mar, careful
 
 <figure>
   <a href="https://www.reddit.com/r/sandiego/comments/h83lyh/same_great_views_none_of_the_people_del_mar/">
-  <img src="https://i.redd.it/as5kmeki1n451.jpg" width="600" />
+  <img src="https://i.redd.it/as5kmeki1n451.jpg" width="400" />
   </a>
   <figcaption>View from tracks in Del Mar</figcaption>
 </figure>
@@ -57,3 +57,8 @@ If you want to do a walk I'd recommend parking on 5th street in Del Mar, careful
 * Modern Times Beer Tasting Room - OK, I don't get out much and I don't like IPA so take this recommendation with a grain of salt. I like the vibe of this place. If you are at my house you can go to the one in Encinitas. If you are at the other house you can go in North Park.
 <img src="../../images/modern_times.jpeg" width="600" /> 
 * Karl Strauss Restaurant in Sorrento Mesa - Yes, another beer place... see above. This place is a nice place to talk and have a beer. Beer, beer food, and japanese garden. <img src="../../images/karl_strauss.jpeg" width="600" /> [More](https://www.google.com/search?q=Karl+Strauss+Sorrento+Mesa+Restaurant&rlz=1C5CHFA_enUS915US915&sxsrf=ALeKk01pkbFTAD-JyFj0GYCJ8DZBrmjrRg:1627688160177&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiYi970-ovyAhWS6p4KHcMZBEEQ_AUoAnoECAEQBA&biw=1755&bih=1088)
+
+## Breakfast Restaurants
+
+* Morning Glory - Beautiful brunch in Little Italy. See the [review](https://sandiego.eater.com/2019/4/23/18512532/morning-glory-brunch-breakfast-cocktail-bar-ch-projects-little-italy).
+<img src="https://cdn.vox-cdn.com/thumbor/erQjJQh0oeiZ8ULqt3viH211zUE=/0x0:5984x3989/1820x1213/filters:focal(2514x1517:3470x2473):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63658816/MorningGlory_29.0.jpg" width="600">
