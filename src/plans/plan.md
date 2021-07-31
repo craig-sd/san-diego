@@ -72,5 +72,4 @@ If you want to do a walk I'd recommend parking on 5th street in Del Mar, careful
 <img src="https://cdn.vox-cdn.com/thumbor/erQjJQh0oeiZ8ULqt3viH211zUE=/0x0:5984x3989/1820x1213/filters:focal(2514x1517:3470x2473):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63658816/MorningGlory_29.0.jpg" width="600">
 
 ## Day Trips
-* Palomar Mountain - 
 * Temecula (Wine Country) - An hour drive to our wine country. Might be hot. [Map](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/temecula/2021TemeculaValleyMap_bd844691-5459-4a0c-bf66-e264dbdda96d.pdf)
