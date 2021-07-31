@@ -58,8 +58,18 @@ If you want to do a walk I'd recommend parking on 5th street in Del Mar, careful
 * Karl Strauss Restaurant in Sorrento Mesa - Yes, another beer place... see above. This place is a nice place to talk and have a beer. Beer, beer food, and japanese garden. <img src="../../images/karl_strauss.jpeg" width="600" /> [More](https://www.google.com/search?q=Karl+Strauss+Sorrento+Mesa+Restaurant&rlz=1C5CHFA_enUS915US915&sxsrf=ALeKk01pkbFTAD-JyFj0GYCJ8DZBrmjrRg:1627688160177&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiYi970-ovyAhWS6p4KHcMZBEEQ_AUoAnoECAEQBA&biw=1755&bih=1088)
 * Viewpoint Brewing - OK, I like beer I just want some dopplebock options. Anyway, this brewery is near my house and has a nice view of the lagoon and the Del Mar Racetrack. Go during a race and they will have the races on the screens. They also have nice fire features and corn hole. Check out the [website](https://viewpointbrewing.com/) to see the nice animation showing the surroundings.
 <img src="../../images/viewpoint_brewery.jpg" width="600">
+* Family Fun Center - Mini-golf and go-carts. [website](https://www.familyfuncenters.com/attractions)
+
+## Restaurants
+
+* Convoy street - Cluster of asian restaurants and other businesses. It's fun to go there, pick out a place, and enjoy. Some good options described [here](https://www.sandiego.org/campaigns/creative-communities/convoy-district.aspx). If you go here we recommend you have desert at Somisomi *(Nutella inside)*.
+<img src="../../images/somisomi.jpeg" width="600" />
 
 ## Breakfast Restaurants
 
 * Morning Glory - Beautiful brunch in Little Italy. See the [review](https://sandiego.eater.com/2019/4/23/18512532/morning-glory-brunch-breakfast-cocktail-bar-ch-projects-little-italy).
 <img src="https://cdn.vox-cdn.com/thumbor/erQjJQh0oeiZ8ULqt3viH211zUE=/0x0:5984x3989/1820x1213/filters:focal(2514x1517:3470x2473):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63658816/MorningGlory_29.0.jpg" width="600">
+
+## Day Trips
+* Palomar Mountain - 
+* Temecula (Wine Country) - An hour drive to our wine country. Might be hot. [Map](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/temecula/2021TemeculaValleyMap_bd844691-5459-4a0c-bf66-e264dbdda96d.pdf)
