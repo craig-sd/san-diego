@@ -50,13 +50,14 @@ If you want to do a walk I'd recommend parking on 5th street in Del Mar, careful
 <img src="../../images/skydeck_front.jpeg" width="200" />
 <img src="../../images/skydeck_inside.jpeg" width="200" />
 <img src="../../images/skydeck_pizza.jpeg" width="200" />
-</div>
-<div class="row">
+</div><div class="row">
 <img src="../../images/skydeck_inside_2.jpeg" width="200" />
 </div>
 * Modern Times Beer Tasting Room - OK, I don't get out much and I don't like IPA so take this recommendation with a grain of salt. I like the vibe of this place. If you are at my house you can go to the one in Encinitas. If you are at the other house you can go in North Park.
 <img src="../../images/modern_times.jpeg" width="600" /> 
 * Karl Strauss Restaurant in Sorrento Mesa - Yes, another beer place... see above. This place is a nice place to talk and have a beer. Beer, beer food, and japanese garden. <img src="../../images/karl_strauss.jpeg" width="600" /> [More](https://www.google.com/search?q=Karl+Strauss+Sorrento+Mesa+Restaurant&rlz=1C5CHFA_enUS915US915&sxsrf=ALeKk01pkbFTAD-JyFj0GYCJ8DZBrmjrRg:1627688160177&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiYi970-ovyAhWS6p4KHcMZBEEQ_AUoAnoECAEQBA&biw=1755&bih=1088)
+* Viewpoint Brewing - OK, I like beer I just want some dopplebock options. Anyway, this brewery is near my house and has a nice view of the lagoon and the Del Mar Racetrack. Go during a race and they will have the races on the screens. They also have nice fire features and corn hole. Check out the [website](https://viewpointbrewing.com/) to see the nice animation showing the surroundings.
+<img src="../../images/viewpoint_brewery.jpg" width="600">
 
 ## Breakfast Restaurants
 
