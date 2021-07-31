@@ -76,3 +76,17 @@ If you want to do a walk I'd recommend parking on 5th street in Del Mar, careful
 
 ## Day Trips
 * Temecula (Wine Country) - An hour drive to our wine country. Might be hot. [Map](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/temecula/2021TemeculaValleyMap_bd844691-5459-4a0c-bf66-e264dbdda96d.pdf)
+
+## Events
+
+### Summer Concerts at Balboa Park
+For more than 39 years, Twilight’s live music under the stars has been delighting visitors.
+
+6:30 - 7:30 pm
+
+Tue. Aug. 3 Marine Band San Diego. [Music samples](https://www.mcrdsd.marines.mil/units/subordinate-units/marine-band-san-diego/)
+
+Wed. Aug. 4 Mariachi Estrellas de Chula Vista. [Music samples](https://www.mariachi-plaza.com/band-estrellas-de-chula-vista.htm)
+
+Thur. Aug 5  Rockin Jazz band. [Music samples](http://www.rockinjazzbigband.info/playlist-10/rescue-me-91655)
+
